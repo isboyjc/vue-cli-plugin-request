@@ -1,0 +1,16 @@
+{
+  "name": "vue-cli-plugin-request",
+  "version": "1.0.0",
+  "description": "a vue axios plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "vue-cli",
+    "axios"
+  ],
+  "author": "isboyjc",
+  "license": "ISC"
+}
