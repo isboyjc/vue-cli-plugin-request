@@ -25,6 +25,6 @@ yarn add vue-cli-plugin-request
 调用插件
 
 ```js
-vue invoke vue-cli-plugin-kg-request
+vue invoke vue-cli-plugin-request
 ```
 
